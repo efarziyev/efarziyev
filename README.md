@@ -3,9 +3,9 @@
 I'm a Software Automation Test Engineer with over 7 years of experience in Quality Assurance, specializing in both manual and automation testing for web-based and client-server applications.
 
 ## 🔧 Skills and Tools
-- **Languages**: Java, SQL
+- **Languages**: Java, JavaScript, SQL
 - **Testing Frameworks**: Selenium, TestNG, JUnit, Cucumber
-- **CI/CD**: Jenkins, TeamCity
+- **CI/CD**: Jenkins, TeamCity, AWS
 - **API Testing**: Rest Assured, Postman
 - **Version Control**: Git
 - **Project Management**: JIRA, Wrike
