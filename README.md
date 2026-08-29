@@ -1,6 +1,6 @@
-# Hi there, I'm Elman Farziyev 👋
+# Hi there, I'm Elman Farziyev 
 
-I'm a Software Automation Test Engineer with over 7 years of experience in Quality Assurance, specializing in both manual and automation testing for web-based and client-server applications.
+I'm a Software Automation Test Engineer with over 10 years of experience in Quality Assurance, specializing in both manual and automation testing for web-based and client-server applications.
 
 ## 🔧 Skills and Tools
 - **Languages**: Java, JavaScript, SQL
