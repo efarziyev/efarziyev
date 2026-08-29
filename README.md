@@ -1,6 +1,6 @@
 # Hi, I'm Elman Farziyev
 
-Software Automation Test Engineer with 10+ years of experience in Quality Assurance, specializing in UI, API, and end-to-end test automation.
+Senior QA Automation Engineer with 10+ years of experience in Quality Assurance, specializing in UI, API, and end-to-end test automation.
 
 ## Technical Skills
 
@@ -13,7 +13,7 @@ Software Automation Test Engineer with 10+ years of experience in Quality Assura
 - **Test Management:** Jira, Wrike
 - **Accessibility:** Axe Core
 
-## Featured Project
+## Featured Projects
 
 ### Playwright TypeScript Automation
 
@@ -29,6 +29,20 @@ A modern test automation framework demonstrating:
 - Cross-browser testing
 - GitHub Actions CI
 - HTML reports, traces, screenshots, and video
+
+### REST Assured API Automation
+
+A Java-based API automation framework demonstrating:
+
+- REST Assured + Java 17
+- JUnit and Maven
+- GET, POST, PUT, and DELETE API testing
+- Positive and negative test scenarios
+- Request and response validation
+- Serialization and deserialization
+- Reusable request builders
+- Environment-based secret handling
+- GitHub Actions CI
 
 ## Currently Exploring
 
