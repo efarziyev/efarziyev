@@ -1,23 +1,43 @@
-# Hi there, I'm Elman Farziyev 
+# Hi, I'm Elman Farziyev
 
-I'm a Software Automation Test Engineer with over 10 years of experience in Quality Assurance, specializing in both manual and automation testing for web-based and client-server applications.
+Software Automation Test Engineer with 10+ years of experience in Quality Assurance, specializing in UI, API, and end-to-end test automation.
 
-## Skills and Tools
-- **Languages**: Java, JavaScript, SQL
-- **Testing Frameworks**: Selenium, TestNG, JUnit, Cucumber
-- **CI/CD**: Jenkins, TeamCity, AWS
-- **API Testing**: Rest Assured, Postman
-- **Version Control**: Git
-- **Project Management**: JIRA, Wrike
+## Technical Skills
 
-## What I'm working on
-- Enhancing my automation testing skills and exploring new testing tools.
-- Contributing to open-source projects related to test automation.
-- Writing blog posts about my experiences in software testing and CI/CD.
+- **Automation:** Playwright, Selenium, TestNG, JUnit, Cucumber
+- **Languages:** TypeScript, Java, JavaScript, SQL
+- **API Testing:** REST Assured, Postman, Playwright API
+- **CI/CD:** GitHub Actions, Jenkins, TeamCity
+- **Cloud:** AWS
+- **Version Control:** Git, GitHub
+- **Test Management:** Jira, Wrike
+- **Accessibility:** Axe Core
 
-## How to reach me
-- [LinkedIn](https://www.linkedin.com/in/elman-farziyev/)
-- [Email](mailto:elmanfarziyevv@gmail.com)
+## Featured Project
 
-## 📈 GitHub Stats
-![Elman's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+### Playwright TypeScript Automation
+
+A modern test automation framework demonstrating:
+
+- Playwright + TypeScript
+- Page Object Model
+- Custom fixtures
+- UI and API automation
+- Smoke and regression test suites
+- Centralized test tagging
+- Accessibility scanning with Axe Core
+- Cross-browser testing
+- GitHub Actions CI
+- HTML reports, traces, screenshots, and video
+
+## Currently Exploring
+
+- Advanced Playwright automation patterns
+- API and end-to-end test architecture
+- Accessibility testing
+- CI/CD test automation
+
+## Connect With Me
+
+- LinkedIn
+- Email
