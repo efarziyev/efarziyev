@@ -2,7 +2,7 @@
 
 I'm a Software Automation Test Engineer with over 10 years of experience in Quality Assurance, specializing in both manual and automation testing for web-based and client-server applications.
 
-## 🔧 Skills and Tools
+## Skills and Tools
 - **Languages**: Java, JavaScript, SQL
 - **Testing Frameworks**: Selenium, TestNG, JUnit, Cucumber
 - **CI/CD**: Jenkins, TeamCity, AWS
@@ -10,12 +10,12 @@ I'm a Software Automation Test Engineer with over 10 years of experience in Qual
 - **Version Control**: Git
 - **Project Management**: JIRA, Wrike
 
-## 🚀 What I'm working on
+## What I'm working on
 - Enhancing my automation testing skills and exploring new testing tools.
 - Contributing to open-source projects related to test automation.
 - Writing blog posts about my experiences in software testing and CI/CD.
 
-## 📫 How to reach me
+## How to reach me
 - [LinkedIn](https://www.linkedin.com/in/elman-farziyev/)
 - [Email](mailto:elmanfarziyevv@gmail.com)
 
